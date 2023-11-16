@@ -15,7 +15,6 @@
 	<version>1.0.0</version>
 
 	<properties>
-		<compiler-plugin.version>3.11.0</compiler-plugin.version>
 		<maven.compiler.release>11</maven.compiler.release>
 		<maven.compiler.verbose>true</maven.compiler.verbose>
 		<mapstruct.version>1.5.5.Final</mapstruct.version>
